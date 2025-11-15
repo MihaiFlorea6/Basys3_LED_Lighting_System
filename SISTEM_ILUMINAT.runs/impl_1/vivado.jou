@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Sep 14 14:34:04 2025
+# Process ID         : 7528
+# Current directory  : C:/Users/Mihai Florea/SISTEM_ILUMINAT/SISTEM_ILUMINAT.runs/impl_1
+# Command line       : vivado.exe -log top_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_module.tcl -notrace
+# Log file           : C:/Users/Mihai Florea/SISTEM_ILUMINAT/SISTEM_ILUMINAT.runs/impl_1/top_module.vdi
+# Journal file       : C:/Users/Mihai Florea/SISTEM_ILUMINAT/SISTEM_ILUMINAT.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-JEAGE0T
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17008 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18082 MB
+# Available Virtual  : 11413 MB
+#-----------------------------------------------------------
+source top_module.tcl -notrace
