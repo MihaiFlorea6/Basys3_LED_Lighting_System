@@ -1,0 +1,15 @@
+*.js linguist-vendored
+*.html linguist-vendored
+
+*.tcl linguist-vendored
+
+*.sh linguist-vendored
+*.bat linguist-vendored
+
+*.xpr linguist-vendored
+*.wdb linguist-vendored
+*.wcfg linguist-vendored
+*.runs/* linguist-vendored
+
+*.v linguist-detectable=true
+*.sv linguist-detectable=true
