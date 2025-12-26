@@ -13,5 +13,10 @@
 *.jou linguist-generated=true
 *.pb linguist-generated=true
 
+SISTEM_ILUMINAT.cache/** linguist-generated=true
+SISTEM_ILUMINAT.hw/** linguist-generated=true
+SISTEM_ILUMINAT.runs/** linguist-generated=true
+
 *.v linguist-language=Verilog
 *.sv linguist-language=Verilog
+
