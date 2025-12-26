@@ -1,15 +1,17 @@
-*.js linguist-vendored
-*.html linguist-vendored
+*.js linguist-generated=true
+*.html linguist-generated=true
+*.css linguist-generated=true
 
-*.tcl linguist-vendored
+*.tcl linguist-generated=true
+*.sh linguist-generated=true
+*.bat linguist-generated=true
 
-*.sh linguist-vendored
-*.bat linguist-vendored
+*.xpr linguist-generated=true
+*.wdb linguist-generated=true
+*.wcfg linguist-generated=true
+*.log linguist-generated=true
+*.jou linguist-generated=true
+*.pb linguist-generated=true
 
-*.xpr linguist-vendored
-*.wdb linguist-vendored
-*.wcfg linguist-vendored
-*.runs/* linguist-vendored
-
-*.v linguist-detectable=true
-*.sv linguist-detectable=true
+*.v linguist-language=Verilog
+*.sv linguist-language=Verilog
