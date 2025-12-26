@@ -25,7 +25,7 @@ This project demonstrates proficiency in:
 **→ Clean modular Verilog architecture.**  
 
 # Testing
-The final hardware implementation was tested and validated directly on the Basys3 board, demonstrating correct LED brightness transitions, stable PWM behavior, accurate SSD time display, and a fully operational 16-LED animation sequence.
+The final hardware implementation was tested and validated directly on the `Basys3 board`, demonstrating correct `LED brightness transitions`, stable `PWM behavior`, accurate `SSD time display`, and a `fully operational 16-LED animation sequence`.
 
 # Key Technologies
 `Verilog HDL`, `Basys3 FPGA Board`, `PWM Dimming`, `Digital Clock Logic`, `FSM`, `Real-Time Control Design`, `Hardware Synthesis`.
