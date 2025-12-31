@@ -20,7 +20,7 @@ The system's "intelligence" is governed by a Moore-type state machine (interval-
 ## Lighting Controller Logic  
 Manages the transition between intensity states (DAY, DUSK, EVENING, MIDNIGHT, ANIMATION) based on the 24-hour hardware counter.  
  <p align="center">
-  <img src="docs/FSM_Control_Diagram_LIGHTING_SYSTEM.drawio.png"
+  <img src="docs/FSM_Control_Diagram_LIGHTING_SYSTEM1.drawio.png"
        width="500"
        style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.25);">
 </p>  
