@@ -2,21 +2,15 @@
 *.html linguist-generated=true
 *.css linguist-generated=true
 
-*.tcl linguist-generated=true
-*.sh linguist-generated=true
-*.bat linguist-generated=true
-
 *.xpr linguist-generated=true
 *.wdb linguist-generated=true
 *.wcfg linguist-generated=true
 *.log linguist-generated=true
 *.jou linguist-generated=true
 *.pb linguist-generated=true
-
-SISTEM_ILUMINAT.cache/** linguist-generated=true
-SISTEM_ILUMINAT.hw/** linguist-generated=true
-SISTEM_ILUMINAT.runs/** linguist-generated=true
+*.xdc linguist-vendored
 
 *.v linguist-language=Verilog
 *.sv linguist-language=Verilog
+
 
