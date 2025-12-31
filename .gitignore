@@ -1,0 +1,15 @@
+# Vivado junk
+*.log
+*.jou
+*.str
+*.os
+.Xil/
+SISTEM_ILUMINAT.cache/
+SISTEM_ILUMINAT.hw/
+SISTEM_ILUMINAT.ip_user_files/
+SISTEM_ILUMINAT.runs/
+SISTEM_ILUMINAT.sim/
+
+# Bitstream files (optional, but usually shared via 'Releases')
+*.bit
+*.bin
